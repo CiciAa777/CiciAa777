@@ -1,5 +1,4 @@
-<img width="1288" height="606" alt="image" src="https://github.com/user-attachments/assets/4c22312d-25f4-4b98-99cb-30c90d79e9de" /><!--
-**CiciAa777/CiciAa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**CiciAa777/CiciAa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
