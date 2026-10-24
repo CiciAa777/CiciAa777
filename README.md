@@ -1,4 +1,4 @@
-<!--
+<img width="1288" height="606" alt="image" src="https://github.com/user-attachments/assets/4c22312d-25f4-4b98-99cb-30c90d79e9de" /><!--
 **CiciAa777/CiciAa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 ![DuckDB](https://img.shields.io/badge/DuckDB-172B35?style=flat-square&logo=duckdb&logoColor=white)
 
 **Applied AI & development**  
-RAG · LLM APIs · Agent tools · LoRA · Git · TypeScript dashboards
+![RAG](https://img.shields.io/badge/RAG-172B35?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-172B35?style=flat-square)
+![Agent workflows](https://img.shields.io/badge/Agent_Workflows-172B35?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA-172B35?style=flat-square)
+![Git](https://img.shields.io/badge/Git-172B35?style=flat-square&logo=git&logoColor=white)
 
 ### Connect
 
